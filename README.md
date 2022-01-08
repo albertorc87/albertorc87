@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://cosasdedevs.com/](https://cosasdedevs.com/)
 
-- 💬 Ask me about **PHP, Laravel 8, Python, Django, Node**
+- 💬 Ask me about **PHP, Laravel 8, Python, Django, Node and FastAPI**
 
 - 📫 How to reach me **alberto.r.caballero.87@gmail.com**
 
