@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Alber</h1>
-<h3 align="center">PHP/Node.js/Python Developer</h3>
+<h3 align="center">PHP/TypeScript/Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertorc87&label=Profile%20views&color=0e75b6&style=flat" alt="albertorc87" /> </p>
 
-- 💻 I’m currently work at [Tappx](https://www.tappx.com/es/)
+- 💻 I’m currently working on my personal projects
 
-- 🌱 I’m currently learning **Soft skills**
+- 🌱 I’m currently learning **React and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/albertorc87](https://github.com/albertorc87)
 
 - 📝 I regularly write articles on [https://cosasdedevs.com/](https://cosasdedevs.com/)
 
-- 💬 Ask me about **PHP, Laravel 8, Python, Django, Node and FastAPI**
+- 💬 Ask me about **PHP, Laravel 8, Symfony, Svelte, Python, Django, Node and FastAPI**
 
 - 📫 How to reach me **alberto.r.caballero.87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alberrc87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alberrc87" height="30" width="40" /></a>
+<a href="https://twitter.com/backalber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alberrc87" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/albertorc87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertorc87" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/backalber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="backalber" height="30" width="40" /></a>
 </p>
